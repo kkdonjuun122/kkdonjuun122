@@ -295,8 +295,12 @@ img {
   background-attachment: fixed;
 }
 
+.footer-text {
+    color: #000000; /* 검은색 */
+}
+
 .footer-text a {
-  color: inherit;
+    color: inherit; /* 위의 검은색을 상속 */
 }
 
 .technologies-grid-item {
