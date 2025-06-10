@@ -1,7 +1,7 @@
 
 $(document).ready(function() {
     general_utils();
-    blog_posts();
+    // blog_posts();
 })
 
 
@@ -17,7 +17,7 @@ function general_utils() {
 		}, 1000);
 	});
 }
-
+/*
 function blog_posts() {
 
     // keeping it static, can be fetched from a blog dynamically as well
@@ -95,6 +95,7 @@ function blog_posts() {
     $('#rss-feeds').html(post_html);
 
 }
+*/
 
 function blog_link_click(url) {
     window.location = url;
