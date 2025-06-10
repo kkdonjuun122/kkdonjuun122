@@ -11,7 +11,7 @@ let render_projects = (slug) => {
 
     let projects_obj = [
         {
-            image: 'assets/images/mentors.jpg',
+            image: 'assets/images/Turn_game.png',
             title: '턴제 게임',
             // //demo : 'https://mporter.co',
             description: "Flask web application for easy reporting updates to one's mentor. Multi-user support, easy to deploy and use.",
