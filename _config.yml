@@ -1,18 +1,18 @@
-title: Abhishek Nagekar
-description: Web & Security Engineer
-site_title: '@abhn - Abhishek Nagekar'
+title: 김동준의 홈페이지
+description: 평범한 컴퓨터 공학과 학생생
+site_title: '@kkdonjuun122 - 김동준의 홈페이지'
 
 # Build settings
 markdown: kramdown
 exclude: [vendor/ruby]
 
 # Personalization
-github_username: abhn
-blog_url: https://www.nagekar.com
-email: abhishek@nagekar.com
-keybase_username: abhn
-twitter_username: abhn_
-reddit_username: abhn
+github_username: kkdonjuun122
+#blog_url: https://www.nagekar.com
+email: 20202845@gm.hannam.ac.kr
+#keybase_username: abhn
+#twitter_username: abhn_
+#reddit_username: abhn
 
 # absolute or relative
 profile_picture: assets/images/pp.jpg
