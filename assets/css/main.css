@@ -289,11 +289,10 @@ img {
   min-height: 35px;
   color: #000;
   font-family: 'PT Sans', Arial, Helvetica, sans-serif;
-  /*
-  background: url(../images/background.png);
+  background: url(../images/background2.png);
   background-repeat: repeat;
   background-attachment: fixed;
-  */
+  
 }
 
 .footer-text {
