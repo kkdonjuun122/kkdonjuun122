@@ -8,7 +8,7 @@ A simple and modern portfolio template that is lightweight, mobile responsive an
 - [Installation](#installation)
 
 ### Demo[
-(https://kkdonjuun122.github.io/kkdonjuun122/)
+https://kkdonjuun122.github.io/kkdonjuun122/
 
 ### Screenshots
 ![homepage](tmp/screenshot.jpg?raw=true "Homepage")
