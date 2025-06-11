@@ -15,11 +15,13 @@ https://kkdonjuun122.github.io/kkdonjuun122/
 ### 스크린샷
 ![homepage](tmp/screenshot.png?raw=true "Homepage")
 
-
 ### 홈페이지 템플릿 테마 출처
 
 https://github.com/abhn/portfolio/tree/master
 
+### 나의 Github 주소
+
+https://github.com/kkdonjuun122/kkdonjuun122.git
 
 ### 템플릿을 이용해 활용한 효과
 
