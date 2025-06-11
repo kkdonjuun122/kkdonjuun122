@@ -9,14 +9,8 @@ exclude: [vendor/ruby]
 
 # Personalization
 github_username: kkdonjuun122
-#blog_url: https://www.nagekar.com
 email: 20202845@gm.hannam.ac.kr
-#keybase_username: abhn
-#twitter_username: abhn_
-#reddit_username: abhn
 
 # absolute or relative
 profile_picture: assets/images/pp2.jpg
 
-# Google Analytics ID
-google_analytics: 
