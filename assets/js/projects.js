@@ -32,7 +32,7 @@ let render_projects = (slug) => {
             categories: ['favorites','security']
         },
         {
-            image: 'assets/images/social-share-count.jpg',
+            image: 'assets/images/White_Black.png',
             title: '화이트 해커 & 블랙 해커',
             //demo : 'https://www.nagekar.com/mpw',
             description: "이 둘의 개념을 확실하게 배워 보고 싶습니다다.",
