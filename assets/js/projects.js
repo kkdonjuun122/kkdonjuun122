@@ -1,5 +1,5 @@
 $(document).ready(() => {
-    render_projects('featured');
+    render_projects('favorites');
 })
 
 
@@ -15,29 +15,31 @@ let render_projects = (slug) => {
             title: '턴제 게임',
             // //demo : 'https://mporter.co',
             description: "Flask web application for easy reporting updates to one's mentor. Multi-user support, easy to deploy and use.",
-            categories: ['game']
+            categories: ['favorites','game']
         },
         {
-            image: 'assets/images/mobile-landscape.jpg',
+            image: 'assets/images/Security_guard2.png.png',
             title: '보안 위협 요소 찾기',
             ////demo : 'http://wall-e-jekyll.github.io/',
             description: "A modern Jekyll theme with grid frontpage, beautiful typography, mobile responsive, made with Semantic UI.",
-            categories: ['game']
+            categories: ['game','security']
         },
         {
-            image: 'assets/images/collage.jpg',
-            title: '테스트',
+            image: 'assets/images/Security_Tool.png.png',
+            title: '보안 툴 만들기',
             //demo : false,
             description: "Attendance marking tool that uses face recognition for marking attendance and firebase for tracking and analytics.",
-            categories: ['security']
+            categories: ['favorites','security']
         },
         {
-            image: 'assets/images/mpw.jpg',
-            title: '테스트123',
+            image: 'assets/images/social-share-count.jpg',
+            title: '화이트 해커 & 블랙 해커',
             //demo : 'https://www.nagekar.com/mpw',
             description: "Master Password is an ingenious password solution that makes your passwords truly impossible to lose.",
             categories: ['security']
+            
         },
+        /*
         {
             image: 'assets/images/social-share-count.jpeg',
             title: 'Social Share Count',
@@ -122,6 +124,7 @@ let render_projects = (slug) => {
             description: "A cross-platform desktop application that serves as a Wolfram Alpha query place and notes taker.",
             categories: ['native']
         },
+        */
     ]
 
     let projects = [];
