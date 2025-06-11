@@ -10,7 +10,7 @@
 https://kkdonjuun122.github.io/kkdonjuun122/
 
 ### 스크린샷
-![homepage](tmp/screenshot.jpg?raw=true "Homepage")
+![homepage](tmp/screenshot.png?raw=true "Homepage")
 
 ### 특징
 -바닐라 CSS와 jQuery로 제작한 단일 페이지 포트폴리오
