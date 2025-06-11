@@ -14,32 +14,32 @@ let render_projects = (slug) => {
             image: 'assets/images/Turn_game.png',
             title: '턴제 게임',
             // //demo : 'https://mporter.co',
-            description: "Flask web application for easy reporting updates to one's mentor. Multi-user support, easy to deploy and use.",
+            description: "말 그대로 턴제 게임입니다. 서로 차례를 주고 받으면서 행동을 수행합니다.",
             categories: ['favorites','game']
         },
         {
             image: 'assets/images/Security_guard2.png.png',
             title: '보안 위협 요소 찾기',
             ////demo : 'http://wall-e-jekyll.github.io/',
-            description: "A modern Jekyll theme with grid frontpage, beautiful typography, mobile responsive, made with Semantic UI.",
+            description: "게임 내에서 컴퓨터를 조작하며 바이러스가 침투할 수 있는 요소를 찾아 제거하는 게임입니다.",
             categories: ['game','security']
         },
         {
             image: 'assets/images/Security_Tool.png.png',
             title: '보안 툴 만들기',
             //demo : false,
-            description: "Attendance marking tool that uses face recognition for marking attendance and firebase for tracking and analytics.",
+            description: "저만의 간단한 보안 툴을 만들어 보는 것입니다.",
             categories: ['favorites','security']
         },
         {
             image: 'assets/images/social-share-count.jpg',
             title: '화이트 해커 & 블랙 해커',
             //demo : 'https://www.nagekar.com/mpw',
-            description: "Master Password is an ingenious password solution that makes your passwords truly impossible to lose.",
+            description: "이 둘의 개념을 확실하게 배워 보고 싶습니다다.",
             categories: ['security']
             
         },
-        /*
+        /* 사용 안하는 애들, 일단 남겨둠
         {
             image: 'assets/images/social-share-count.jpeg',
             title: 'Social Share Count',
