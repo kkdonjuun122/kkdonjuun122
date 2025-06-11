@@ -1,10 +1,5 @@
 # 웹스크립트 프로그래밍 나만의 홈페이지 제작
 
-- [홈페이지 링크](#홈페이지)
-- [스크린샷](#스크린샷)
-- [기능](#템플릿을 이용해 활용한 효과)
-
-
 ### 홈페이지 링크
 https://kkdonjuun122.github.io/kkdonjuun122/
 
@@ -15,7 +10,6 @@ https://kkdonjuun122.github.io/kkdonjuun122/
 ### 홈페이지 템플릿 테마 출처
 
 https://github.com/abhn/portfolio/tree/master
-
 
 
 ### 템플릿을 이용해 활용한 효과
