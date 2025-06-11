@@ -92,7 +92,6 @@ img {
     font-size: 0.85em; /* head-punchline보다 작은 크기 */
     color: #E0E0E0; /* 회색 */
     margin-top: 8px; /* 위쪽 여백 */
-    animation: fadeInUp 1s ease-out; /* 기존 애니메이션과 맞추려면 */
 }
 
 .head-buttons {
