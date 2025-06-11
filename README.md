@@ -5,10 +5,6 @@
 - [스크린샷](#스크린샷)
 - [특징](#특징)
 
-### 깃허브 
-
-https://github.com/kkdonjuun122/kkdonjuun122.git
-
 
 ### 홈페이지 링크
 https://kkdonjuun122.github.io/kkdonjuun122/
@@ -30,3 +26,13 @@ https://kkdonjuun122.github.io/kkdonjuun122/
 https://github.com/abhn/portfolio/tree/master
 
 
+
+# 템플릿을 이용해 활용한 효과
+
+1. 모든 브라우저와의 호환 가능
+2. 시각적 스타일링
+3. transition, skill-bar 와 같은 애니메이션과 전환 효과
+4. 반응형 디자인
+5. 홈페이지 안 구성 요소를 자연스럽게 정리하는 Flexbox 레이아웃 
+6. PROJECT 항목 카드 인터페이스 꾸미기
+7. 이미지 반응형 처리
