@@ -32,7 +32,7 @@ https://github.com/abhn/portfolio/tree/master
 1. 모든 브라우저와의 호환 가능
 2. 시각적 스타일링
 3. transition, skill-bar 와 같은 애니메이션과 전환 효과
-4. 반응형 디자인
+4. 반응형 디자인 / span 아이콘에 하이퍼 링크 등
 5. 홈페이지 안 구성 요소를 자연스럽게 정리하는 Flexbox 레이아웃 
 6. PROJECT 항목 카드 인터페이스 꾸미기
 7. 이미지 반응형 처리
