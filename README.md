@@ -5,6 +5,10 @@
 - [스크린샷](#스크린샷)
 - [특징](#특징)
 
+### 깃허브 
+
+https://github.com/kkdonjuun122/kkdonjuun122.git
+
 
 ### 홈페이지 링크
 https://kkdonjuun122.github.io/kkdonjuun122/
